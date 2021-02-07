@@ -1,3 +1,5 @@
+#This script refers to computations necessary for Chapter 5 Examples
+
 D_1=vector(QQ,[1,0,0,0])
 D_2=vector(QQ,[1,1,0,0])
 D_3=vector(QQ,[0,1,1,0])
